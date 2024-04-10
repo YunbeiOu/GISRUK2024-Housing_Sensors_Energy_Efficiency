@@ -8,7 +8,7 @@ this study aims to utilize sensor data to understand how the housing energy effi
 This project is a collaborative project between the Bureau of Investigative Journalism (TBIJ) and the University of Glasgow’s Urban Big Data Centre. 
 
 ## Paper
-Research data, method and findings can be found in our GISRUK2024 conference paper: https://zenodo.org/records/10926876 (https://github.com/YunbeiOu/GISRUK2024-Housing_Sensors_Energy_Efficiency/assets/92650797/681c2396-ad47-41bc-9b18-7b9f478ba251).
+Research data, method and findings can be found in our GISRUK2024 conference paper: https://zenodo.org/records/10926876.
 
 ## Project Team
 
