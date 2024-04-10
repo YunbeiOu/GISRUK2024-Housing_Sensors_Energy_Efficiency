@@ -22,7 +22,7 @@ TBIJ:
 
 ## Data
 
-There are three dataset in the data folder: [Household Indoor Sensor Measurement Data](Data/Smart_Citizen_Data_Concat), [SensorID_EPC_Survey_Open_Data](Data/SensorID_EPC_Survey_Open_Data.csv), and [LIMBO (Weather Station) data](Data/LIMBO.csv). 
+There are three dataset in the data folder: [Household Indoor Sensor Measurement Data](data/Smart_Citizen_Data_concat), [SensorID_EPC_Survey_Open_Data](data/SensorID_EPC_Survey_Open_Data.csv), and [LIMBO (Weather Station) data](data/LIMBO.csv). 
 
 ### Household Indoor Sensor Measurement Data (Smart_Citizen_Data_Concat folder)
 This folder includes a variety of environmental parameters captured by the [Smart Citizen Kits (SCK) sensors](https://smartcitizen.me/), such as air temperature, relative humidity, air quality, CO2 level, noise condition, and light condition.
