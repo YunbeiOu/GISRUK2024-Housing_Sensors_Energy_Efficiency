@@ -2,7 +2,7 @@
 
 ## Project Details
 
-This study is part of the project of [Sensor Enhanced Housing Survey for Urban Heat Investigation](https://github.com/congying-hu/SensorEnhancedSurveyHeatInvestigation). Having collect indoor environment sensor measurement data,
+This study is part of the project of [Sensor Enhanced Housing Survey for Urban Heat Investigation](https://github.com/congying-hu/SensorEnhancedSurveyHeatInvestigation). Having collected indoor environment sensor measurement data,
 this study aims to utilize sensor data to understand how the housing energy efficiency influence the indoor environment in the summer.
 
 This project is a collaborative project between the Bureau of Investigative Journalism (TBIJ) and the University of Glasgow’s Urban Big Data Centre. 
